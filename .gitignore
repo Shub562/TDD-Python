@@ -3,3 +3,4 @@ db.sqlite3
 superlists/__pycache__
 lists/__pycache__
 lists/migrations/__pycache__
+functional_tests/__pycache__
